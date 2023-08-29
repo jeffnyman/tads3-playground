@@ -11,6 +11,8 @@
 *.t3m      text
 *.tl       text
 *.h        text
+*.js       text
+*.css      text
 
 ## DOCUMENTATION
 *.markdown   text
@@ -65,6 +67,7 @@ TODO         text
 *.tiff    binary
 *.wbmp    binary
 *.webp    binary
+*.swf     binary
 
 # Make sure certain files are not archived
 .gitignore      export-ignore
