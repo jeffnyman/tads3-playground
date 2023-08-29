@@ -4,6 +4,9 @@
 ##   This will handle all files NOT defined below.
 * text=auto
 
+## EXCUTABLES
+*.exe      binary
+
 ## SOURCE CODE
 *.bat      text eol=crlf
 *.sh       text eol=lf
