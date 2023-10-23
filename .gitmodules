@@ -1,0 +1,3 @@
+[submodule "adv3lite"]
+	path = adv3lite
+	url = https://github.com/EricEve/adv3lite.git
